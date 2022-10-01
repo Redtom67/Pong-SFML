@@ -1,7 +1,7 @@
 # Pong-SFML
 jeu pong fait grâce à la librairie SFML
 
-Pour voir le produit fini : 
+# Pour voir le produit fini : 
 
 -Télécharger tous les fichiers dans le fichier Pong sur la page d'accueil dans un seul et même fichier sur votre PC (Windows)
 
@@ -10,7 +10,7 @@ Pour voir le produit fini :
 -Une fenêtre s'affiche et vous pouvez jouer.
 
 
-Touches : 
+# Touches : 
 
 -Pour quitter le jeu cliquer sur la touche échap de votre clavier ou la croix de la fenêtre du jeu puis la croix de la fenêtre de commande
 
