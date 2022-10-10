@@ -5,11 +5,14 @@ jeu pong en C++ fait grâce à la librairie SFML
 
 -Télécharger tous les fichiers dans le fichier Pong sur la page d'accueil dans un seul et même fichier sur votre PC (Windows),
 
--S'assurer que le document de fonte "poppins" soit dans le fichier "res",
+-S'assurer que le document de fonte "poppins" soit dans le fichier "res", et que les fichiers finissants par .tlog soient dans le fichier .tlog
 
--Ouvrir ce dernier avec toutes les ressources dedans puis double cliquer sur l'executable SFMLPong.exe (SFMLPong),
+-Une fois tous les fichiers dans leurs dossiers, double cliquer sur l'executable SFMLPong.exe (SFMLPong),
 
 -Une fenêtre s'affiche et vous pouvez jouer.
+
+
+
 
 
 # Touches : 
