@@ -1,5 +1,5 @@
 # Pong-SFML
-jeu pong fait grâce à la librairie SFML
+jeu pong en C++ fait grâce à la librairie SFML
 
 # Pour voir le produit fini : 
 
